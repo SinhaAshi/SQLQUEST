@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/SinhaAshi/SQLQUEST/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/SinhaAshi/SQLQUEST/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SinhaAshi/SQLQUEST/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
