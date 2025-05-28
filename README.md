@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SinhaAshi/SQLQUEST/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SinhaAshi/SQLQUEST/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3321-type-of-triangle](https://github.com/SinhaAshi/SQLQUEST/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
