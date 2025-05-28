@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/0344-reverse-string) |
+| [1904-second-largest-digit-in-a-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/SinhaAshi/SQLQUEST/tree/master/3321-type-of-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/1904-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
