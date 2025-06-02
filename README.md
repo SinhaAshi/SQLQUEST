@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SinhaAshi/SQLQUEST/tree/master/0283-move-zeroes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SinhaAshi/SQLQUEST/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SinhaAshi/SQLQUEST/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/SinhaAshi/SQLQUEST/tree/master/3321-type-of-triangle) |
 ## Linked List
@@ -80,9 +83,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [3321-type-of-triangle](https://github.com/SinhaAshi/SQLQUEST/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/1904-second-largest-digit-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
