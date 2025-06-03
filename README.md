@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SinhaAshi/SQLQUEST/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/SinhaAshi/SQLQUEST/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SinhaAshi/SQLQUEST/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SinhaAshi/SQLQUEST/tree/master/1878-check-if-array-is-sorted-and-rotated) |
