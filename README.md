@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SinhaAshi/SQLQUEST/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0189-rotate-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SinhaAshi/SQLQUEST/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/1904-second-largest-digit-in-a-string) |
 ## Bit Manipulation
