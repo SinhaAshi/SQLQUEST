@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SinhaAshi/SQLQUEST/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SinhaAshi/SQLQUEST/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SinhaAshi/SQLQUEST/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3321-type-of-triangle](https://github.com/SinhaAshi/SQLQUEST/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SinhaAshi/SQLQUEST/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SinhaAshi/SQLQUEST/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SinhaAshi/SQLQUEST/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SinhaAshi/SQLQUEST/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinhaAshi/SQLQUEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SinhaAshi/SQLQUEST/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
