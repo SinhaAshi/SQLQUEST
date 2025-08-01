@@ -12,15 +12,15 @@ public:
     }
 
     return maxProfit;*/
-    int minPrice = INT_MAX;  // track lowest price so far
-    int maxProfit = 0;       // track maximum profit
-
-    for (int price : prices) {
+    int minPrice = INT_MAX;  
+    int maxProfit = 0;       
+for (int i = 0; i < prices.size(); ++i) {
+    int price = prices[i];
         if (price < minPrice) {
-            minPrice = price; // found a better day to buy
+            minPrice = price; 
         } else {
             int profit = price - minPrice;
-            maxProfit = max(maxProfit, profit); // better day to sell
+            maxProfit = max(maxProfit, profit); 
         }
     }
 
