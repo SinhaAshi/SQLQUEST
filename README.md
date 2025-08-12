@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SinhaAshi/SQLQUEST/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SinhaAshi/SQLQUEST/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/SinhaAshi/SQLQUEST/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SinhaAshi/SQLQUEST/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SinhaAshi/SQLQUEST/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SinhaAshi/SQLQUEST/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SinhaAshi/SQLQUEST/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SinhaAshi/SQLQUEST/tree/master/0560-subarray-sum-equals-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/1904-second-largest-digit-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SinhaAshi/SQLQUEST/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SinhaAshi/SQLQUEST/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
