@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/SinhaAshi/SQLQUEST/tree/master/1078-remove-outermost-parentheses) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SinhaAshi/SQLQUEST/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SinhaAshi/SQLQUEST/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/SinhaAshi/SQLQUEST/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
