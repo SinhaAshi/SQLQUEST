@@ -167,5 +167,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SinhaAshi/SQLQUEST/tree/master/0020-valid-parentheses) |
+| [0937-online-stock-span](https://github.com/SinhaAshi/SQLQUEST/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/SinhaAshi/SQLQUEST/tree/master/1078-remove-outermost-parentheses) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/SinhaAshi/SQLQUEST/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/SinhaAshi/SQLQUEST/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/SinhaAshi/SQLQUEST/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
