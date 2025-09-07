@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SinhaAshi/SQLQUEST/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SinhaAshi/SQLQUEST/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SinhaAshi/SQLQUEST/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SinhaAshi/SQLQUEST/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SinhaAshi/SQLQUEST/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3321-type-of-triangle](https://github.com/SinhaAshi/SQLQUEST/tree/master/3321-type-of-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SinhaAshi/SQLQUEST/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SinhaAshi/SQLQUEST/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SinhaAshi/SQLQUEST/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SinhaAshi/SQLQUEST/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3321-type-of-triangle](https://github.com/SinhaAshi/SQLQUEST/tree/master/3321-type-of-triangle) |
 ## Linked List
 |  |
